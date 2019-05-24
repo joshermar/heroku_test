@@ -1,1 +1,1 @@
-web: gunicorn example:app --log-file -
+web: gunicorn heroku-test:app --log-file -
