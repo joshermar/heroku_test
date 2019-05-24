@@ -1,1 +1,1 @@
-A simple Flask webapp for testing with a Heroku deployment
+An example web app for testing Heroku deployments
