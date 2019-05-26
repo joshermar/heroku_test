@@ -1,2 +1,5 @@
-# An example web app for testing Heroku deployments
-## URL: https://joshermar-heroku-test.herokuapp.com/
+# A simple (mostly empty) Django web app for testing Heroku
+
+Seems to work: https://joshermar-heroku-test.herokuapp.com
+
+More tests to come...
