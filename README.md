@@ -1,4 +1,4 @@
-# A simple (mostly empty) Django web app for testing Heroku
+# A sample Flask web app for testing Heroku deployments
 
 Seems to work: https://joshermar-heroku-test.herokuapp.com
 
