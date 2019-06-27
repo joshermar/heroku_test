@@ -1,5 +1,5 @@
 # A sample Flask web app for testing Heroku deployments
 
-Seems to work: https://joshermar-heroku-test.herokuapp.com
+This is not the full featured microblog app found here: https://github.com/joshermar/django_blog.
 
-More tests to come...
+This is only a test repo to get heroku working with a dummy app.
